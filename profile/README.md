@@ -1,5 +1,5 @@
-### Programa de pesquisa em Biodiversidade | Brazilian Biodiversity Research Programme - PPBio 
+#### Programa de pesquisa em Biodiversidade | Brazilian Biodiversity Research Programme - PPBio 
 
-![alt text](https://drive.google.com/drive/u/0/folders/1Tkn37jKXkRe_1i2zeMIhaTM9lcFzsyOU)
 
+<img align="center" width="350" height="350" src="https://github.com/PPBio/PPBio_metadata/raw/master/doc/LOGO_PPBio_FUNDO_BRANCO.jpg">
 
