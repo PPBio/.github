@@ -1,6 +1,6 @@
 <img align="right" width="100" height="95" src="https://github.com/PPBio/PPBio_metadata/raw/master/doc/LOGO_PPBio_FUNDO_BRANCO.jpg"> 
 
-#### Programa de pesquisa em Biodiversidade | Brazilian Biodiversity Research Programme 
+### Programa de pesquisa em Biodiversidade | Brazilian Biodiversity Research Programme 
 
 Aqui reunimos repositórios das análises de diferentes pesquisas realizadas pelo programa
 
