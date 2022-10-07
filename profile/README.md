@@ -2,7 +2,6 @@
 
 #### Programa de pesquisa em Biodiversidade | Brazilian Biodiversity Research Programme 
 
-Aqui reunimos anaĺises de diferentes pesquisas e estudos realizados pelo programa
-
+Aqui reunimos repositórios das análises de diferentes pesquisas realizadas pelo programa
 
 
