@@ -1,4 +1,4 @@
-<img align="right" width="90" height="80" src="https://github.com/PPBio/PPBio_metadata/raw/master/doc/LOGO_PPBio_FUNDO_BRANCO.jpg"> 
+<img align="right" width="90" height="80" src="https://github.com/PPBio/PPBio_metadata/blob/master/doc/img/LOGO_PPBio_FUNDO_BRANCO.jpg"> 
 
 ### Programa de Pesquisa em Biodiversidade | Brazilian Biodiversity Research Programme 
 
